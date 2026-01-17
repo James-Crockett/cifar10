@@ -9,6 +9,8 @@ dependencies = [
     "torchvision",
     "transformers",
     "torchaudio",
+    "matplotlib>=3.10.8",
+    "matplotlib-inline>=0.2.1",
 ]
 
 [[tool.uv.index]]
