@@ -1,6 +1,6 @@
 # CIFAR-10 Classification (PyTorch)
 
-This repo/notebook set is a learning-focused walk from a **linear softmax baseline** to a **custom CNN**, and then to **ResNet-34** (from-scratch and pretrained fine-tuning) on **CIFAR-10** using PyTorch + torchvision.
+This repo/notebook set is a learning-focused walk from a **linear softmax baseline** to a **custom CNN**, and then to **ResNet-34** (pretrained fine-tuning) on **CIFAR-10** using PyTorch + torchvision.
 
 
 ### Notebooks
