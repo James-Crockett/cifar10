@@ -17,11 +17,10 @@ All notebooks use **CIFAR-10** via `torchvision.datasets.CIFAR10(...)`.
 
 
 
-## Results (from notebook outputs)
+## Results 
 
-These are the best accuracies found in the saved notebook outputs.
 
-| Models | Best Accuracy |
+| Models | Accuracy |
 |---|---|
 | Linear softmax baseline | **36.98%** |
 | MLP (1 hidden layer) | **50.22%** | 
